@@ -18,5 +18,5 @@ Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **ind
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
 
-
+![Hyung Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjryu98&show_icons=true&theme=prussian)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=playscer)](https://solved.ac/playscer/)  
