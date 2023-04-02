@@ -2,7 +2,7 @@
 
 # Profile😀  
 ### Who am I🤷‍♂️?  
-Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **industrial engineering⚙️** at Hanyang University. My current interest is **algorithm, database, and ML/DL.** I have language skills such as **C/C++(THE MOST CONFINDENT language)**, java and python, but the latter two are the steps of learning harder.
+Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **industrial engineering⚙️** at Hanyang University. My current interest is **algorithm, Data Analytics, and ML/DL.** I have language skills such as **C/C++(THE MOST CONFINDENT language)**, java and python, but the latter two are the steps of learning harder.
 
 ### Career  
 ✏️ Hanyang University, Industrial engineering(Undergraduate, 2018~)  
