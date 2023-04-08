@@ -26,3 +26,4 @@ Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **ind
 
 ![Hyung Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjryu98&show_icons=true&theme=prussian)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=playscer)](https://solved.ac/playscer/)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjryu98%2Fhit-counter&count_bg=%233DC8A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
