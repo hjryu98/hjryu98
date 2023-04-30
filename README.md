@@ -13,7 +13,6 @@ Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **ind
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![R](https://img.shields.io/badge/R-F37626.svg?&style=for-the-badge&logo=R&logoColor=white)
 ### Learning📝  
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
@@ -27,4 +26,5 @@ Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **ind
 
 ![Hyung Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjryu98&show_icons=true&theme=prussian)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=playscer)](https://solved.ac/playscer/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjryu98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjryu98%2Fhit-counter&count_bg=%233DC8A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
