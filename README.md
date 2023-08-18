@@ -9,7 +9,7 @@ Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **ind
 🖥️ Algorithm Labs(Internship, 2022.01-2023.06)  
 🖥️ Samsung Electronics (Internship, 2023.07-2023.08)  
 
-
+ 
 # Skills💪
 ### Platforms & Languages💻  
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
