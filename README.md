@@ -5,10 +5,10 @@
 Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **industrial engineering⚙️** at Hanyang University. My current interest is **algorithm, Data Analytics, and ML/DL.** I have language skills such as **C/C++(THE MOST CONFINDENT language)**, java and python and so on. Let's introduce more about me below!
 
 # Career📝  
-✏️ Hanyang University, Industrial engineering(Undergraduate, 2018.03~)  
+✏️ Hanyang University, Industrial engineering(Undergraduate, 2018.03-2024.02)  
 🖥️ Algorithm Labs(Internship, 2022.01-2023.06)  
-🖥️ Samsung Electronics (Internship, 2023.07-2023.08)  
-
+🖥️ Samsung Electronics(Internship, 2023.07-2023.08)  
+🖥️ Samsung Electronics(Mechatronics Research Center, 2024.03~)  
  
 # Skills💪
 ### Platforms & Languages💻  
