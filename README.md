@@ -8,7 +8,7 @@ Hi!😊 My name is HyungJin, and I am an undergraduate student majoring in **ind
 ✏️ Hanyang University, Industrial engineering(Undergraduate, 2018.03-2024.02)  
 🖥️ Algorithm Labs(Internship, 2022.01-2023.06)  
 🖥️ Samsung Electronics(Internship, 2023.07-2023.08)  
-🖥️ Samsung Electronics(Mechatronics Research Center, 2024.03~)  
+🖥️ Samsung Electronics(Mechatronics Research, 2024.03~)  
  
 # Skills💪
 ### Platforms & Languages💻  
